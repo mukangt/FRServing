@@ -2,7 +2,7 @@
  * @Author: mukangt
  * @Date: 2020-12-15 14:54:39
  * @LastEditors: mukangt
- * @LastEditTime: 2020-12-15 15:10:33
+ * @LastEditTime: 2020-12-15 15:37:42
  * @Description: 
 -->
 ### 代码目录
@@ -30,5 +30,6 @@
 │   ├── run.sh
 │   └── test.jpg
 ├── README.md
-└── tree.txt
+└── FRServing.jpg
 ```
+![image](QDModelServing.jpg)
