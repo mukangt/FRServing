@@ -32,4 +32,3 @@
 ├── README.md
 └── FRServing.jpg
 ```
-![image](QDModelServing.jpg)
